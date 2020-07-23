@@ -1,0 +1,1197 @@
+@media only screen and (min-width:2048px){
+    
+    
+}
+
+@media only screen and (min-width:1600px) and (max-width:2047px){
+    
+    
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px){
+    
+    
+}
+
+@media only screen and (min-width:1151px) and (max-width:1245px){
+    
+    
+}
+
+@media only screen and (min-width:960px) and (max-width:1169px){
+    .wrapper{
+        width: auto;
+        padding: 0 10px;
+    }
+    
+    /*** top header sec start ***/
+    
+    .logo_menu .logo{
+        padding: 8px 0;
+    }
+    
+    /*** top header sec end ***/
+    
+    /*** top banner sec start ***/
+    
+    .top_banner .banner_cap_text{
+        padding-top: 170px;
+    }
+    .top_banner .banner_cap_text h1{
+        width: 58%;
+    }
+    
+    /*** top banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .our_service .service_cap{
+        padding-top: 170px;
+    }
+    .service_sec ul li{
+        width: 293px;
+    }
+    .service_sec ul li h5{
+        width: 80%;
+    }
+    .service_sec ul li p{
+        width: 83%;
+    }
+    /*** our service sec end ***/
+    
+    /*** expert sec start ***/
+    
+    .expert .expert_des p{
+        width: 98%;
+    }
+    .expert .expert_photo img {
+	margin: 0px -285px;
+}
+    /*** expert sec end ***/
+    
+    /*** little sec start ***/
+    
+    .little p{
+        width: 97%;
+        margin: 0px auto;
+    }
+    
+    /*** little sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog ul li{
+        width: 293px;
+    }
+    .blog ul li form ul li.form_input{
+        width: 93%;
+    }
+    .blog ul li ul li input[type="text"]{
+        width: 90%;
+    }
+    .blog ul li ul li textarea{
+        width: 90%;
+    }
+    /*** blog sec end ***/
+    
+    /*** need sec start ***/
+    
+    .need{
+        margin-top: 85px;
+    }
+    .need h5{
+        font-size: 30px;
+    }
+    /*** need sec end ***/
+}
+
+@media only screen and (min-width:769px) and (max-width:959px){
+        .wrapper{
+        width: auto;
+        padding: 0 10px;
+    }
+    
+    /*** top header sec start ***/
+    
+    .logo_menu .logo{
+        padding: 8px 0;
+        width: 25%;
+    }
+    .logo_menu .header_menu {
+	padding: 12px 0;
+	overflow: initial;
+	float: right;
+	width: 45%;
+    }
+    .mean-container{
+        width: 13% !important;
+    }
+    #header{
+        width: 13%;
+        float: right;
+    }
+    .logo_menu .header_menu .lan{
+        margin: 0px;
+    }
+    .logo_menu .header_menu .social_media{
+        padding: 8px 0;
+        margin-right: 60px;
+    }
+    /*** top header sec end ***/
+    
+    /*** top banner sec start ***/
+    
+    .top_banner .banner_cap_text{
+        padding-top: 170px;
+    }
+    .top_banner .banner_cap_text h1{
+        width: 75%;
+    }
+    
+    /*** top banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .service_sec{
+        padding-top: 70px;
+    }
+    .our_service .service_cap{
+        padding-top: 135px;
+    }
+    .service_sec ul li{
+        width: 229px;
+    }
+    .service_sec ul li h5{
+        width: 96%;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .service_sec ul li p{
+        width: 98%;
+    }
+    /*** our service sec end ***/
+    
+    /*** expert sec start ***/
+    
+    .expert{
+        padding-top: 70px;
+    }
+    .expert .expert_des{
+        width: 100%;
+    }
+    .expert .expert_des p{
+        width: 98%;
+    }
+    .expert .expert_photo img {
+	margin: 0px -285px;
+}
+    /*** expert sec end ***/
+    
+    /*** little sec start ***/
+    
+    .little p{
+        width: 97%;
+        margin: 0px auto;
+    }
+    
+    /*** little sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog ul li{
+        width: 229px;
+    }
+    .blog ul li h6{
+        font-size: 16px;
+    }
+    .blog ul li form ul li.form_input{
+        width: 91%;
+    }
+    .blog ul li ul li input[type="text"]{
+        width: 90%;
+    }
+    .blog ul li ul li textarea{
+        width: 90%;
+    }
+    .blog ul li .icon{
+        padding-right: 5px;
+    }
+    /*** blog sec end ***/
+    
+    /*** need sec start ***/
+    
+    .need{
+        margin-top: 70px;
+    }
+   .need h5 {
+	font-size: 30px;
+	float: none;
+	text-align: center;
+	padding-top: 20px;
+	display: table;
+	margin: 0px auto;
+}
+    .need ul{
+        float: none;
+        margin: 20px auto 20px auto;
+        text-align: center;
+        display: table;
+        
+    }
+    /*** need sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer .footer_det ul li a{
+        width: 80%;
+    }
+    
+    /*** footer sec end ***/
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px){
+    
+            .wrapper{
+        width: auto;
+        padding: 0 10px;
+    }
+    
+    /*** top header sec start ***/
+    
+    .logo_menu .logo{
+        padding: 8px 0;
+        width: 30%;
+    }
+    .logo_menu .header_menu {
+	padding: 12px 0;
+	overflow: initial;
+	float: right;
+	width: 44%;
+    }
+    .mean-container{
+        width: 13% !important;
+    }
+    #header{
+        width: 13%;
+        float: right;
+    }
+    .logo_menu .header_menu .lan{
+        margin: 0px;
+    }
+    .logo_menu .header_menu .social_media{
+        padding: 8px 0;
+        margin: 0 30px;
+    }
+    /*** top header sec end ***/
+    
+    /*** top banner sec start ***/
+    .top_banner{
+        height: 500px;
+    }
+    .top_banner .banner_cap_text{
+        padding-top: 90px;
+    }
+    .top_banner .banner_cap_text h1{
+        width: 75%;
+        font-size: 35px;
+        line-height: 45px;
+        padding-bottom: 20px;
+        padding-bottom: 15px;
+    }
+    .top_banner .banner_cap_text p{
+        font-size: 19px;
+    }
+    /*** top banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .our_service{
+        height: 350px;
+    }
+    .service_sec{
+        padding-top: 40px;
+    }
+    .our_service .service_cap{
+        padding-top: 140px;
+    }
+    .our_service .service_cap h2{
+        padding-bottom: 17px;
+    }
+    .our_service .service_cap p{
+        padding-top: 17px;
+        width: 92%;
+    }
+    .service_sec ul li{
+        margin-bottom: 20px;
+    }
+    .service_sec ul li:last-child{
+        margin-bottom: 0px;
+    }
+    .service_sec ul li{
+        width: 100%;
+    }
+    .service_sec ul li h5{
+        width: 96%;
+        padding: 15px 0;
+    }
+    .service_sec ul li p{
+        width: 82%;
+    }
+    /*** our service sec end ***/
+    
+    /*** expert sec start ***/
+    
+    .expert{
+        padding-top: 40px;
+    }
+    .expert .expert_des{
+        width: 100%;
+        float: none;
+    }
+    .expert .expert_des h5{
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .expert .expert_des p{
+        width: 98%;
+        padding: 20px 0;
+    }
+    .expert .expert_photo{
+        height: 524px;
+    }
+    .expert .expert_photo img{
+        margin: 0;
+        width: 100%;
+}
+    /*** expert sec end ***/
+    
+    /*** little sec start ***/
+    
+    .little{
+        padding: 35px 0;
+    }
+    .little p{
+        width: 97%;
+        margin: 0px auto;
+        padding: 20px 0;
+    }
+    
+    /*** little sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 40px;
+    }
+    .blog ul li img{
+        height: 270px;
+    }
+    .blog ul li{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog ul li h6{
+        font-size: 16px;
+    }
+    .blog ul li form ul li.form_input{
+        width: 98.2%;
+        cursor: none;
+    }
+    .blog ul li ul li input[type="text"]{
+        width: 90%;
+    }
+    .blog ul li ul li textarea{
+        width: 90%;
+    }
+    .blog ul li .icon{
+        padding-right: 5px;
+    }
+    /*** blog sec end ***/
+    
+    /*** need sec start ***/
+    
+    .need{
+        margin-top: 40px;
+        padding: 0px;
+    }
+   .need h5 {
+	font-size: 30px;
+	float: none;
+	text-align: center;
+	padding-top: 20px;
+	display: table;
+	margin: 0px auto;
+}
+    .need ul{
+        float: none;
+        margin: 20px auto 20px auto;
+        text-align: center;
+        display: table;
+        
+    }
+    /*** need sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 40px;
+    }
+    footer .footer_det ul li a{
+        width: 80%;
+    }
+    
+    /*** footer sec end ***/
+    
+    /*** footer bottom sec start ***/
+    
+    footer ul li .footer_logo img{
+        width: 80%;
+        padding-top: 40px;
+    }
+    .footer_bottom{
+        margin-top: 40px;
+    }
+    
+    /*** footer bottom sec end ***/
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+        .wrapper{
+        width: auto;
+        padding: 0 10px;
+    }
+    
+    /*** top header sec start ***/
+    
+    .logo_menu .logo{
+        padding: 8px 0;
+        width: 30%;
+    }
+    .logo_menu .logo img{
+        width: 90%;
+    }
+    .logo_menu .header_menu {
+	padding: 12px 0;
+	overflow: initial;
+	float: right;
+	width: 55%;
+    }
+    .mean-container{
+        width: 13% !important;
+    }
+    #header{
+        width: 13%;
+        float: right;
+    }
+    .logo_menu .header_menu .lan{
+        margin: 0px;
+    }
+    .logo_menu .header_menu .social_media{
+        padding: 8px 0;
+        margin: 0 20px;
+    }
+    /*** top header sec end ***/
+    
+    /*** top banner sec start ***/
+    .top_banner{
+        height: 500px;
+    }
+    .top_banner .banner_cap_text{
+        padding-top: 100px;
+    }
+    .top_banner .banner_cap_text h1{
+        width: 86%;
+        font-size: 35px;
+        line-height: 45px;
+        padding-bottom: 20px;
+        padding-bottom: 15px;
+    }
+    .top_banner .banner_cap_text p{
+        font-size: 19px;
+    }
+    /*** top banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .our_service{
+        height: 350px;
+        margin-top: -130px;
+    }
+    .service_sec{
+        padding-top: 40px;
+    }
+    .our_service .service_cap{
+        padding-top: 140px;
+    }
+    .our_service .service_cap h2{
+        padding-bottom: 17px;
+    }
+    .our_service .service_cap p{
+        padding-top: 17px;
+        width: 92%;
+    }
+    .service_sec ul li{
+        margin-bottom: 20px;
+    }
+    .service_sec ul li:last-child{
+        margin-bottom: 0px;
+    }
+    .service_sec ul li{
+        width: 100%;
+    }
+    .service_sec ul li h5{
+        width: 96%;
+        padding: 15px 0;
+    }
+    .service_sec ul li p{
+        width: 82%;
+    }
+    /*** our service sec end ***/
+    
+    /*** expert sec start ***/
+    
+    .expert{
+        padding-top: 40px;
+    }
+    .expert .expert_des{
+        width: 100%;
+        float: none;
+    }
+    .expert .expert_des h5{
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .expert .expert_des p{
+        width: 98%;
+        padding: 20px 0;
+    }
+    .expert .expert_photo{
+        height: 394px;
+    }
+    .expert .expert_photo img{
+        margin: 0;
+        width: 100%;
+}
+    /*** expert sec end ***/
+    
+    /*** little sec start ***/
+    
+    .little{
+        padding: 35px 0;
+    }
+    .little p{
+        width: 97%;
+        margin: 0px auto;
+        padding: 20px 0;
+    }
+    
+    /*** little sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 40px;
+    }
+    .blog ul li img{
+        height: 270px;
+    }
+    .blog ul li{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog ul li h6{
+        font-size: 16px;
+    }
+    .blog ul li form ul li.form_input{
+        width: 98.2%;
+        cursor: none;
+    }
+    .blog ul li ul li input[type="text"]{
+        width: 90%;
+    }
+    .blog ul li ul li textarea{
+        width: 90%;
+    }
+    .blog ul li .icon{
+        padding-right: 5px;
+    }
+    /*** blog sec end ***/
+    
+    /*** need sec start ***/
+    
+    .need{
+        margin-top: 40px;
+        padding: 0px;
+    }
+   .need h5 {
+	font-size: 30px;
+	float: none;
+	text-align: center;
+	padding-top: 20px;
+	display: table;
+	margin: 0px auto;
+}
+    .need ul{
+    float: none;
+    margin: 20px auto 20px auto;
+    text-align: center;
+    display: table;
+        
+    }
+    .need ul li a{
+        padding: 12.5px 28px;
+    }
+    .need ul li a.blog_box{
+        padding: 12.5px 47.4px;
+    }
+    .need ul li a.contact_box{
+        padding: 12.5px 21px;
+    }
+    /*** need sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 40px;
+    }
+    footer .footer_det ul li a{
+        width: 80%;
+    }
+    
+    /*** footer sec end ***/
+    
+    /*** footer bottom sec start ***/
+    
+    footer ul li .footer_logo{
+        float: none;
+        text-align: left;
+        margin-right: 0px;
+        padding-top: 0px;
+    }
+    footer ul li .footer_logo img{
+        width: 80%;
+        padding-bottom: 20px;
+    }
+    .footer_bottom{
+        margin-top: 40px;
+    }
+    
+    /*** footer bottom sec end ***/
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px){
+    
+               .wrapper{
+        width: auto;
+        padding: 0 10px;
+    }
+    
+    /*** top header sec start ***/
+    
+    .logo_menu .logo{
+        padding: 8px 0;
+        width: 30%;
+    }
+    .logo_menu .logo img{
+        width: 90%;
+        padding-top: 7px;
+    }
+    .logo_menu .header_menu {
+	padding: 12px 0;
+	overflow: initial;
+	float: right;
+	width: 68%;
+    }
+    .mean-container{
+        width: 13% !important;
+    }
+    #header{
+        width: 13%;
+        float: right;
+    }
+    .logo_menu .header_menu .lan{
+        margin: 0px;
+    }
+    .logo_menu .header_menu .lan select{
+        padding: 8px 0px;
+        margin: 0;
+    }
+    .logo_menu .header_menu .social_media{
+        padding: 8px 0;
+        margin: 0 20px;
+    }
+    /*** top header sec end ***/
+    
+    /*** top banner sec start ***/
+    .top_banner{
+        height: 300px;
+    }
+    .top_banner .banner_cap_text{
+        padding-top: 40px;
+    }
+    .top_banner .banner_cap_text h1{
+        width: 100%;
+        font-size: 26px;
+        line-height: 30px;
+        padding-bottom: 20px;
+        padding-bottom: 10px;
+    }
+    .top_banner .banner_cap_text p{
+        font-size: 17px;
+    }
+    .top_banner .banner_cap_text a.contact_us_now{
+        margin-top: 15px;
+        padding: 18.5px 12px;
+    }
+    
+    /*** top banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .our_service{
+        height: 350px;
+        margin-top: -120px;
+    }
+    .service_sec{
+        padding-top: 40px;
+    }
+    .our_service .service_cap{
+        padding-top: 110px;
+    }
+    .our_service .service_cap h2{
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+    .our_service .service_cap p{
+        padding-top: 15px;
+        width: 100%;
+    }
+    .service_sec ul li{
+        margin-bottom: 20px;
+    }
+    .service_sec ul li:last-child{
+        margin-bottom: 0px;
+    }
+    .service_sec ul li{
+        width: 100%;
+    }
+    .service_sec ul li h5{
+        width: 100%;
+        padding: 10px 0;
+    }
+    .service_sec ul li p{
+        width: 100%;
+    }
+    /*** our service sec end ***/
+    
+    /*** expert sec start ***/
+    
+    .expert{
+        padding-top: 40px;
+    }
+    .expert .expert_des{
+        width: 100%;
+        float: none;
+    }
+    .expert .expert_des h5{
+        padding-top: 0px;
+        padding-bottom: 10px;
+        font-size: 24px;
+    }
+    .expert .expert_des p{
+        width: 100%;
+        padding: 10px 0;
+    }
+    .expert .expert_photo{
+        height: 263px;
+    }
+    .expert .expert_photo img{
+        margin: 0;
+        width: 100%;
+}
+    /*** expert sec end ***/
+    
+    /*** little sec start ***/
+    
+    .little h5{
+        font-size: 27px;
+        padding-bottom: 10px;
+    }
+    .little{
+        padding: 35px 0;
+    }
+    .little p{
+        width: 100%;
+        margin: 0px auto;
+        padding: 10px 0;
+    }
+    
+    /*** little sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 40px;
+    }
+    .blog ul li img{
+        height: 200px;
+    }
+    .blog ul li{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog ul li h5{
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .blog ul li h6{
+        font-size: 16px;
+    }
+    .blog ul li form ul li.form_input{
+        width: 98.2%;
+        cursor: none;
+    }
+    .blog ul li ul li input[type="text"]{
+        width: 93%;
+    }
+    .blog ul li ul li textarea{
+        width: 90%;
+    }
+    .blog ul li .icon{
+        padding-right: 5px;
+    }
+    .blog a.more_post{
+        margin-bottom: 15px;
+        padding: 8.5px 9px;
+    }
+    .blog button{
+        padding: 11px 22px;
+    }
+    /*** blog sec end ***/
+    
+    /*** need sec start ***/
+    
+    .need{
+        margin-top: 40px;
+        padding: 0px;
+    }
+   .need h5 {
+	font-size: 24px;
+	float: none;
+	text-align: center;
+	padding-top: 20px;
+	display: table;
+	margin: 0px auto;
+}
+    .need ul{
+    float: none;
+    margin: 20px auto 20px auto;
+    text-align: center;
+    display: table;
+        
+    }
+    .need ul li{
+        margin-right: 0px;
+        float: none;
+        margin-bottom: 10px;
+    }
+    .need ul li a{
+        padding: 12.5px 24px;
+    }
+    .need ul li a.blog_box{
+        padding: 12.5px 28.4px;
+    }
+    .need ul li a.contact_box{
+        padding: 12.5px 2px;
+    }
+    /*** need sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 40px;
+    }
+    footer .footer_det ul li a{
+        width: 80%;
+    }
+    
+    /*** footer sec end ***/
+    
+    /*** footer bottom sec start ***/
+    
+    footer ul li .footer_logo{
+        float: none;
+        text-align: left;
+        margin-right: 0px;
+        padding-top: 0px;
+    }
+    footer ul li .footer_logo img{
+        width: 80%;
+        padding-bottom: 20px;
+    }
+    .footer_bottom{
+        margin-top: 40px;
+    }
+    
+    /*** footer bottom sec end ***/
+}
+
+
+@media only screen and (max-width: 320px){
+    
+        .wrapper{
+        width: auto;
+        padding: 0 10px;
+    }
+    
+    /*** top header sec start ***/
+    
+    .logo_menu .logo{
+        padding: 8px 0;
+        width: 30%;
+    }
+    .logo_menu .logo img{
+        width: 90%;
+        padding-top: 7px;
+    }
+    .logo_menu .header_menu {
+	padding: 12px 0;
+	overflow: initial;
+	float: right;
+	width: 68%;
+    }
+    .mean-container{
+        width: 13% !important;
+    }
+    #header{
+        width: 13%;
+        float: right;
+    }
+    .logo_menu .header_menu .lan{
+        margin: 0px;
+    }
+    .logo_menu .header_menu .lan select{
+        padding: 8px 0px;
+        margin: 0;
+    }
+    .logo_menu .header_menu .social_media{
+        padding: 8px 0;
+        margin: 0 20px;
+    }
+    /*** top header sec end ***/
+    
+    /*** top banner sec start ***/
+    .top_banner{
+        height: 300px;
+    }
+    .top_banner .banner_cap_text{
+        padding-top: 40px;
+    }
+    .top_banner .banner_cap_text h1{
+        width: 100%;
+        font-size: 26px;
+        line-height: 30px;
+        padding-bottom: 20px;
+        padding-bottom: 10px;
+    }
+    .top_banner .banner_cap_text p{
+        font-size: 17px;
+    }
+    .top_banner .banner_cap_text a.contact_us_now{
+        margin-top: 15px;
+        padding: 18.5px 12px;
+    }
+    
+    /*** top banner sec end ***/
+    
+    /*** our service sec start ***/
+    
+    .our_service{
+        height: 350px;
+        margin-top: -120px;
+    }
+    .service_sec{
+        padding-top: 40px;
+    }
+    .our_service .service_cap{
+        padding-top: 110px;
+    }
+    .our_service .service_cap h2{
+        padding-bottom: 15px;
+        font-size: 30px;
+    }
+    .our_service .service_cap p{
+        padding-top: 15px;
+        width: 100%;
+    }
+    .service_sec ul li{
+        margin-bottom: 20px;
+    }
+    .service_sec ul li:last-child{
+        margin-bottom: 0px;
+    }
+    .service_sec ul li{
+        width: 100%;
+    }
+    .service_sec ul li h5{
+        width: 100%;
+        padding: 10px 0;
+    }
+    .service_sec ul li p{
+        width: 100%;
+    }
+    /*** our service sec end ***/
+    
+    /*** expert sec start ***/
+    
+    .expert{
+        padding-top: 40px;
+    }
+    .expert .expert_des{
+        width: 100%;
+        float: none;
+    }
+    .expert .expert_des h5{
+        padding-top: 0px;
+        padding-bottom: 10px;
+        font-size: 24px;
+    }
+    .expert .expert_des p{
+        width: 100%;
+        padding: 10px 0;
+    }
+    .expert .expert_photo{
+        height: 263px;
+    }
+    .expert .expert_photo img{
+        margin: 0;
+        width: 100%;
+}
+    /*** expert sec end ***/
+    
+    /*** little sec start ***/
+    
+    .little h5{
+        font-size: 27px;
+        padding-bottom: 10px;
+    }
+    .little{
+        padding: 35px 0;
+    }
+    .little p{
+        width: 100%;
+        margin: 0px auto;
+        padding: 10px 0;
+    }
+    
+    /*** little sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding-top: 40px;
+    }
+    .blog ul li img{
+        height: 200px;
+    }
+    .blog ul li{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog ul li h5{
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .blog ul li h6{
+        font-size: 16px;
+    }
+    .blog ul li form ul li.form_input{
+        width: 93.2%;
+        cursor: none;
+    }
+    .blog ul li ul li input[type="text"]{
+        width: 93%;
+    }
+    .blog ul li ul li textarea{
+        width: 90%;
+    }
+    .blog ul li .icon{
+        padding-right: 5px;
+    }
+    .blog a.more_post{
+        margin-bottom: 15px;
+        padding: 8.5px 9px;
+    }
+    .blog button{
+        padding: 11px 22px;
+    }
+    /*** blog sec end ***/
+    
+    /*** need sec start ***/
+    
+    .need{
+        margin-top: 40px;
+        padding: 0px;
+    }
+   .need h5 {
+	font-size: 24px;
+	float: none;
+	text-align: center;
+	padding-top: 20px;
+	display: table;
+	margin: 0px auto;
+}
+    .need ul{
+    float: none;
+    margin: 20px auto 20px auto;
+    text-align: center;
+    display: table;
+        
+    }
+    .need ul li{
+        margin-right: 0px;
+        float: none;
+        margin-bottom: 10px;
+    }
+    .need ul li a{
+        padding: 12.5px 24px;
+    }
+    .need ul li a.blog_box{
+        padding: 12.5px 28.4px;
+    }
+    .need ul li a.contact_box{
+        padding: 12.5px 2px;
+    }
+    /*** need sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer{
+        padding-top: 40px;
+    }
+    footer .footer_det ul li a{
+        width: 80%;
+    }
+    
+    /*** footer sec end ***/
+    
+    /*** footer bottom sec start ***/
+    
+    footer ul li .footer_logo{
+        float: none;
+        text-align: left;
+        margin-right: 0px;
+        padding-top: 0px;
+    }
+    footer ul li .footer_logo img{
+        width: 80%;
+        padding-bottom: 20px;
+    }
+    .footer_bottom{
+        margin-top: 40px;
+    }
+    
+    /*** footer bottom sec end ***/
+}
